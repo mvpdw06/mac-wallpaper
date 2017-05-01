@@ -1,0 +1,17 @@
+{
+  "name": "mac-wallpaper",
+  "version": "1.0.0",
+  "description": "DIY Mac wallpaper by myself!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvpdw06/mac-wallpaper.git"
+  },
+  "author": "Ryan Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvpdw06/mac-wallpaper/issues"
+  },
+  "homepage": "https://github.com/mvpdw06/mac-wallpaper#readme"
+}
